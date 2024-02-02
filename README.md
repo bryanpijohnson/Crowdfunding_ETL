@@ -20,3 +20,4 @@ Project Summary - Receipt of an excel file (crowdfunding.xlsx) and framework pyt
 Project Notes - 
 +When determining the lengths of the SQL fields, we determined the maximum value for the fields in question and then added roughly 25% to account for additional, larger entries.
 +Initially we attempted to us a VS extension of postgres, however ultimately decided to utilize pdAdmin to create/manipulate the SQL databases due to our familiarity with the pgAdmin platform. 
+
